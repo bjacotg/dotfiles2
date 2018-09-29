@@ -28,5 +28,6 @@ alias sudo='sudo '
 
 PATH=~/bin:~/.gem/ruby/2.4.0/bin:$PATH
 export ANDROID_HOME=/opt/android-sdk
+export EDITOR=vim
 
 
